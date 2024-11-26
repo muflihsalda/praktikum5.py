@@ -10,7 +10,7 @@ flowcahrt
 
 ![flowchart](https://github.com/user-attachments/assets/d5fe20aa-c731-4f25-9f4f-ac4f15651803)
 
-# penjelasan perogram
+# penjelasan program
 1. judul perogram
 
 ![judul perogram](https://github.com/user-attachments/assets/df1886ea-40f0-4edc-84d5-7735b804fc9f)
